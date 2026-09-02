@@ -1,0 +1,15 @@
+*{
+     list-style: none;
+} 
+ header {
+  display: flex;
+   align-items: center; 
+   justify-content: space-between;
+   padding: 40px;
+   border-bottom: 3px solid azure;
+   } 
+   ul {
+  display: flex;
+  gap: 30px;
+  } 
+  
